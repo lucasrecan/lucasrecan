@@ -5,6 +5,15 @@ Je suis étudiant en 3ème année de BUT Informatique à l'IUT informatique de l
 ## 🧰 Langages les plus utilisés
 
 <!--LANGS:START-->
+| Langage | Projets | |
+|---|---:|---|
+| Python | 8 (50 %) | ██████████ |
+| Java | 4 (25 %) | █████ |
+| Dart | 2 (12 %) | ██ |
+| PHP | 1 (6 %) | █ |
+| C | 1 (6 %) | █ |
+
+16 projets publics · ⭐ 0 étoiles au total
 <!--LANGS:END-->
 
 ## 📌 Projets
